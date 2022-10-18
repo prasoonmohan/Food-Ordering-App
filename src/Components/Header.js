@@ -20,8 +20,8 @@ function Header() {
             <Link to="/cart" className='li' >
                 <img src={cartIcon} alt="cart" />
             </Link>
-            <Link to="/login" className='li'>Log In</Link>
-            <Link to="/register" className='li'>Sign Up</Link>
+            <Link to="" className='li'>Log In</Link>
+            <Link to="" className='li'>Sign Up</Link>
         </div>
 
     </div>
