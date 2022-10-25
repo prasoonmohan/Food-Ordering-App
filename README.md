@@ -1,5 +1,5 @@
 
-# Food ordering App
+# Food ordering App Demo
 
 # snap 📸
 
