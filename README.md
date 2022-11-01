@@ -1,7 +1,7 @@
 
 # Food ordering App Demo
 
-# snap 📸 ...
+# snap 📸 ....
 
 ![App Screenshot](./public/assets/image/preview.png)
 
